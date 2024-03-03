@@ -6,4 +6,5 @@
 !*.docx
 !*.bib
 !*.pdf
+!*.tex
 .vscode
