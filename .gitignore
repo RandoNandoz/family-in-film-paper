@@ -1,0 +1,8 @@
+# Ignore all files...
+*.*
+
+# ...except the ones we want
+!*.gitignore
+!*.docx
+!*.bib
+!*.pdf
